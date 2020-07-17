@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#05AF9B</color>
+    <color name="colorPrimaryDark">#05AF9B</color>
+    <color name="colorAccent">#05AF9B</color>
+
+    <color name="color_one">#6f00ff</color>
+    <color name="color_white">#EDEDF2</color>
+    <color name="color_two">#E3E0E0</color>
+
+    <color name="cases">#ffff00</color>
+    <color name="recovered">#808000</color>
+    <color name="deaths">#EF2350</color>
+    <color name="active">#000080</color>
+
+</resources>
